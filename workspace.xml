@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa31076b-f547-4ee1-88cd-a02ca7699cec" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/mean.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/mark_simonson_-_proxima_nova_regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/mark_simonson_-_proxima_nova_regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/mark_simonson_-_proxima_nova_regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/mark_simonson_-_proxima_nova_regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/opensanshebrew-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/proximanova-light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/proximanova-light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/proximanova-light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/proximanova-light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/ufonts.com_futura-book.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/ufonts.com_futura-book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/ufonts.com_futura-book.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/fonts/ufonts.com_futura-book.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/apple-touch-icon-114x114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/apple-touch-icon-144x144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/apple-touch-icon-57x57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/apple-touch-icon-72x72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/apple/splash2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/button_login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/button_login_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/cactus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/devide_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/devide_line_long.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/eye_password.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/eye_password_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/gmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/icons/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/icons/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/icons/github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/icons/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/icons/linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/icons/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/linnovate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/loaders/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/mail_login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/makeapoint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/social_fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/social_g+.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/social_github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/social_in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/social_tw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/sprites/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/sprites/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/thank-you.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/welcome_social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/welcome_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/woman_ninja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/assets/img/woman_ninja_forg_pass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/controllers/header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/controllers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/controllers/starter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/routes/system.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/routes/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/system/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/system/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/users/forgot-password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/users/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/users/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/users/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/public/views/users/reset-password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/server/views/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/server/views/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/server/views/includes/foot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/server/views/includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/custom/meanStarter/server/views/layouts/default.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mean.json" afterPath="$PROJECT_DIR$/mean.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="bergies-site.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bergies-site" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/public/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/public/views/users/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foot.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/server/views/includes/foot.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/server/views/includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/server/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15873016">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="y" value="23" />
+    <option name="width" value="1391" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bergies-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bergies-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bergies-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa31076b-f547-4ee1-88cd-a02ca7699cec" name="Default" comment="" />
+      <created>1492644653693</created>
+      <option name="number" value="Default" />
+      <updated>1492644653693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="37" y="23" width="1391" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21998562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/public/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/public/views/users/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/server/views/includes/foot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/server/views/includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/custom/bergies-site/server/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15873016">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
